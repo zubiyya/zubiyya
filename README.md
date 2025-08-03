@@ -1,4 +1,4 @@
-# Hi, I'm Zubia Tanoli
+# Hi I'm Zubia Tanoli
 
 I'm a Data Science student currently in my 5th semester at the Pak-Austria Institute.  
 I enjoy building practical Python projects and exploring new tools in software development.
